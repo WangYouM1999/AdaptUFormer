@@ -1,2 +1,2 @@
 # AdaptFormer
-Semantic segmentation for remote sensing
+Source code will be available soon
